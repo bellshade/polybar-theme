@@ -6,4 +6,4 @@
 kumpulan tema dari polybar
 
 
-![arwentheme](arwen/arwentheme.png)
+![arwentheme](banner.png)
