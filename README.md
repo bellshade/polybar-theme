@@ -23,4 +23,4 @@ sebelum menggunakan pada panel polybar, alangkah baiknya kamu menginstall bebera
 
     nerd font adalah salah satu font yang memiliki banyak icon yang digunakan untuk tampilan icon nantinya pada polybar. untuk lebih lanjut tata cara penginstallannya bisa cek [disini](https://github.com/ryanoasis/nerd-fonts)
 
-note : **disarankan untuk kamu menggunakan window manager, tetapi tidak ada masalah jika kamu menggunakan dekstop environment**
+note : **disarankan untuk kamu menggunakan window manager, tetapi tidak ada masalah jika kamu menggunakan desktop environment**
