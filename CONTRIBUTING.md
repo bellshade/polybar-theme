@@ -9,7 +9,7 @@ Semua boleh ikut berkontribusi sekecil apapun dengan pengecualian sebagai beriku
   ![screenshot_polybar](gambar_polybar)
   ![screenshot_desktop_dengan_polybar](gambar_screenshot_desktop_dengan_polybar)
   ```
-- menambahkan requirements yang harus diinstal sebelum menggunakna tema polybar pada markdown.
+- menambahkan requirements yang harus diinstal sebelum menggunakan tema polybar pada markdown.
   ```
   ![screenshot_polybar](gambar_polybar)
   ![screenshot_desktop_dengan_polybar](gambar_screenshot_desktop_dengan_polybar)
