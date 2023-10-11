@@ -1,4 +1,4 @@
-# daintree theme
+# Daintree Polybar Theme
 
 ![daintree](daintree.png)
 

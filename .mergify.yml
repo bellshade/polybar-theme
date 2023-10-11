@@ -5,10 +5,10 @@ pull_request_rules:
       - label=ready-to-merge
     actions:
       comment:
-        message: terima kasih sudah menambahkan config terbaru @{{author}} !
+        message: Terima kasih sudah menambahkan konfigurasi terbaru @{{author}}!
       label:
         add:
-          - sudah di ditambahkan!
+          - sudah ditambahkan!
       merge:
         method: squash
 
@@ -20,5 +20,4 @@ pull_request_rules:
     actions:
       label:
         add:
-          - config baru !
-
+          - konfigurasi baru!

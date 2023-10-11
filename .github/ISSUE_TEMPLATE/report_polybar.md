@@ -1,21 +1,22 @@
 ---
-name: report polybar 
-about: lapor masalah install dan lain-lain pada tema polybar
-title: tema polybar (problem)
+name: Lapor Polybar
+about: Lapor masalah install, konfigurasi, dan lain-lain pada tema Polybar.
+title: Tema Polybar (masalah)
 labels: bug
 assignees: ''
-
 ---
 
-## description
+## Deskripsi
 
-<!-- jelaskan masalah kamu secara detail -->
+<!-- Jelaskan masalah kamu secara detail -->
 
-## saya menggunakan
+## System Environment
 
-``distro``: ``debian/arch``
-``window manager``: ``dwm``, ``xmonad``, ``bspm`` ...
+Saya menggunakan
 
-## tambahan lainnya
+- Distribusi: Ubuntu/Linux Mint/Debian/Arch/Kubuntu
+- Window manager: bspwm, i3, dwm, awesome, Openbox
 
-<!-- jelaskan saran atau masukan lain yang ingin kamu sampaikan -->
+## Tambahan Lainnya
+
+<!-- Jelaskan saran atau masukan lain yang ingin kamu sampaikan -->

@@ -1,8 +1,8 @@
 #!/bin/sh
 
-# A dmenu wrapper script for system functions.
+# A dmenu wrapper script for system functions
 
-# For non-systemd init systems.
+# For non-systemd
 case "$(readlink -f /sbin/init)" in
 	*runit*) hib="sudo -A zzz" ;;
 	*openrc*) reb="sudo -A openrc-shutdown -r"; shut="sudo -A openrc-shutdown -p 0" ;;

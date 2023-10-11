@@ -1,5 +1,5 @@
-
 #!/bin/sh
+
 # POLYWINS
 
 # SETTINGS {{{ ---
@@ -179,7 +179,7 @@ generate_window_list() {
       TelegramDesktop) w_name=' ' ;;
       Pcmanfm) w_name='' ;;
       obs-studio) w_name='' ;;
-      Spotify) w_name='󰓇 ';; 
+      Spotify) w_name='󰓇 ';;
       *) w_name="$cls" ;;
       esac
       ;;
