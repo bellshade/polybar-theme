@@ -1,43 +1,48 @@
-# polybar-theme 
-[![badge](https://img.shields.io/discord/722002048643497994?label=discord&style=for-the-badge)](https://discord.gg/wpu)
+# Polybar Theme
+
+[![Badge](https://img.shields.io/discord/722002048643497994?label=discord&style=for-the-badge)](https://discord.gg/wpu)
 ![Lisensi](https://img.shields.io/github/license/bellshade/polybar-theme?style=for-the-badge)
-![contributor](https://img.shields.io/github/contributors/bellshade/polybar-theme?style=for-the-badge)
+![Kontributor](https://img.shields.io/github/contributors/bellshade/polybar-theme?style=for-the-badge)
 
+![Arwen Theme](banner.png)
 
-![arwentheme](banner.png)
+## Polybar
 
+Polybar adalah salah satu panel standalone taskbar atau panel yang dapat kita
+gunakan sebagai wadah untuk meletakkan berbagai macam status indikator.
 
-## polybar :fist: :fist:
+Polybar sangat cocok digunakan pada window manager seperti
+[bspwm](https://github.com/baskerville/bspwm), [i3](https://i3wm.org/),
+[xmonad](https://xmonad.org/), [Openbox](https://openbox.org/), dll.
 
-polybar adalah salah satu panel adalah _standalone_ taskbar atau panel yang dapat kita gunakan sebagai wadah untuk meletakkan berbagai macam status indikator yang kita perlukan.
+Sebelum menggunakan Polybar, alangkah baiknya kamu menginstal beberapa
+software berikut:
 
-polybar sangat cocok digunakan pada windows manager seperti _bspwm_, _i3_, _xmonad_, _openbox_ dll.
+- **Window Manager**
 
+  Window manager adalah salah satu software yang memudahkan kita dalam
+  memanajemen dan mengatur window software yang sedang berjalan, sehingga
+  penggunaannya memudahkan user untuk mengatur letak atau pun memindahkan window
+  software. Dan juga memiliki kustomisasi yang bisa diubah sesuai keinginan user.
 
-sebelum menggunakan pada panel polybar, alangkah baiknya kamu menginstall beberapa kebutuhan yang diinginkan seperti
+  Window manager yang paling populer di kalangan pengguna Linux antara lain yaitu
+  [bspwm](https://github.com/baskerville/bspwm), [dwm](https://dwm.suckless.org/),
+  [awesome](https://awesomewm.org/), [i3](https://i3wm.org/),
+  [xmonad](https://xmonad.org/), [Openbox](https://openbox.org/), dan
+  [Qtile](https://qtile.org/).
 
-- window manager 💻
-    
-    window manager adalah salah satu environment yang memudahkan kita dalam memanajemen window aplikasi yang sedang berjalan, sehingga penggunaannya memudahkan user untuk memanage aplikasinya, dan juga memiliki kustomisasi yang bisa dirubah sesuai dari keiinginan user. window manager yang paling populer di kalangan pengguna linux antara lain adalah _bspwm_, _dwm_, _awesome wm_, _i3_, _xmonad_, _openbox_ dan _Qtile_. kamu bisa mendownload salah satu window manager dibawah ini
-    - [openbox](http://openbox.org/wiki/Openbox:Download)
-    - [bspwm](https://github.com/baskerville/bspwm)
-    - [i3](https://i3wm.org/)
-    - [xmonad](https://xmonad.org/)
-    - [dwm](https://dwm.suckless.org/)
-    - [awesome wm](https://awesomewm.org/)
-    - [Qtile](http://qtile.org/)
+  Note: Disarankan untuk kamu menggunakan window manager, tetapi tidak masalah
+  jika kamu menggunakan desktop environment.
 
+- **Polybar**
 
-- polybar ⭐
-    
-    polybar bisa kamu temukan pada repositori official yang terdapat kamu cek [disini](https://github.com/polybar/polybar)
+  Polybar bisa kamu temukan di [repositori Polybar](https://github.com/polybar/polybar)
+  dan mengikuti langkah-langkah untuk menginstalnya dengan package manager yang
+  tersedia di [list instalasi Polybar](https://github.com/polybar/polybar#installation).
 
-- nerd font :large_orange_diamond:
-    
-    nerd font adalah salah satu font yang memiliki banyak icon yang digunakan untuk tampilan icon nantinya pada polybar. untuk lebih lanjut tata cara penginstallannya bisa cek [disini](https://github.com/ryanoasis/nerd-fonts)
-    
-- rofi :tv:
-    
-    rofi adalah salah satu launcher yang mudah dikustomisasi dan sangat ringat penggunaannya, kita bisa mengganti tema rofi dengan sangat mudah, untuk tata cara penginstallannya bisa cek [disini](https://github.com/davatorium/rofi)
+- **Nerd Fonts**
 
-note : **disarankan untuk kamu menggunakan window manager, tetapi tidak ada masalah jika kamu menggunakan desktop environment**
+  Nerd Fonts adalah salah satu font yang memiliki banyak icon yang digunakan
+  untuk menampilkan beragam icon nantinya pada Polybar. Untuk lebih lanjut tata
+  cara penginstalannya bisa kunjungi
+  [repositori Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).

@@ -1,4 +1,4 @@
-# arwen theme polybar
+# Arwen Polybar Theme
 
 ![arwen1](arwen1.png)
 ![arwen2](arwen2.png)

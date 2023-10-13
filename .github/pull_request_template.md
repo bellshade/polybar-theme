@@ -1,18 +1,22 @@
-## deksripsi (Description)
+## Deskripsi
 
-## checklist
+<!-- Jelaskan apa yang kamu tambah/ubah -->
 
-**umum:**
-- [ ] saya menambahkan tema terbaru
-- [ ] saya memperbaiki dokumentasi
+## Checklist
 
-**sayarat kontributor**:
-- [ ] saya sudah membace (i have read) [CONTRIBUTING](https://github.com/bellshade/polybar-theme/blob/main/CONTRIBUTING.md) dan sudah menyetujui semua syarat.
-- [ ] saya menggunakan bahasa indonesia untuk memberikan penjelasan dari dokumentasi
+**Umum**:
 
-## environment
+- [ ] Saya menambahkan tema terbaru
+- [ ] Saya memperbaiki dokumentasi
 
-saya menggunakan
+**Syarat kontributor**:
 
-- ``distro`` = ``ubuntu/debian/arch/kubuntu/mx``
-- ``window manager`` = ``awesome wm, dwm, xmonad, bspwm ...``
+- [ ] Saya sudah membaca [CONTRIBUTING.md](https://github.com/bellshade/polybar-theme/blob/main/CONTRIBUTING.md) dan menyetujui semua ketentuan.
+- [ ] Saya menggunakan bahasa Indonesia untuk memberikan penjelasan dari dokumentasi
+
+## System Environment
+
+Saya menggunakan
+
+- Distribusi: Ubuntu/Linux Mint/Debian/Arch/Kubuntu
+- Window manager: bspwm, i3, dwm, awesome, Openbox

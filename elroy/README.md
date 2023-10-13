@@ -1,4 +1,4 @@
-# elroy tema polybar
+# Elroy Polybar Theme
 
 ![polybar](polybar.png)
 

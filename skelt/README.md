@@ -1,9 +1,10 @@
-# Skelt
+# Skelt Polybar Theme
 
-Tema Polybar minimal dan dasar untuk memulai.
+Tema Polybar dengan konfigurasi minimal untuk memulai.
 
 ![Skelt theme preview](./skelt.png)
-![Skelt full preview](./skelt-full.png)
+
+![Skelt desktop preview](./skelt-full.png)
 
 ## Modules & Konfigurasi yang Digunakan
 

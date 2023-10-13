@@ -1,7 +1,6 @@
-# green blocks polybar theme
+# Green Blocks Polybar Theme
 
 ![greenblock](greenblock.png)
-
 
 ![image_second](greenblock2.png)
 
